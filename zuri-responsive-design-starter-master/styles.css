@@ -376,6 +376,29 @@ div.footer h6 {
     {
         margin-left: -88px;
     }
+    
+    ul li a
+    {
+
+    text-decoration: none;
+
+    color: #88949B;
+
+    padding: 0;
+    } 
+
+
+
+    ul li a:hover 
+    {
+
+    color: #304353;
+
+    background: #fff;
+
+     padding: 0rem;
+
+    }
 
     ul.nav-links
     {
